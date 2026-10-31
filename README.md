@@ -5,10 +5,10 @@
 ![Khaoz Launcher Banner](https://raw.githubusercontent.com/Khaoz-dev/khaoz-launcher/main/public/images/BannerPrincipal.png)
 
 ### 🌟 Bienvenido a **Khaoz WoW** — La Nueva Era de Azeroth
-**Servidor Privado Oficial de World of Warcraft: Midnight (12.1.5 / 12.0.7)**  
+**Servidor Privado Oficial de World of Warcraft: Midnight (12.1.5 Build 70688)**  
 *¡Vive la defensa de Quel'Thalas contra las sombras del Vacío!*
 
-[![Descargar Khaoz Launcher](https://img.shields.io/badge/Descargar-Khaoz%20Launcher%20v2.0.3-ff7a3d?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Khaoz-dev/khaoz-launcher-releases/releases/latest)
+[![Descargar Khaoz Launcher](https://img.shields.io/badge/Descargar-Khaoz%20Launcher%20v2.0.5-ff7a3d?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Khaoz-dev/khaoz-launcher-releases/releases/latest)
 [![Comunidad Discord](https://img.shields.io/badge/Discord-Unirse%20a%20la%20Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-invitacion)
 [![Estado del Servidor](https://img.shields.io/badge/Servidor-100%25%20Online-35d07f?style=for-the-badge)](https://github.com/Khaoz-dev/khaoz-launcher-releases)
 
